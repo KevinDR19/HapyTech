@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="Librerias/bootstrap-4.4.1/css/bootstrap.css">
     <link rel="stylesheet" href="Librerias/fontawesome-5.13.0/css/all.css">
     <link rel="stylesheet" href="Librerias/sweetalert2/sweetalert/sweetalert2.min.css">
+    <link rel="stylesheet" href="Librerias/indexStyle.css">
 
     <!--Js-->
     <script src="Librerias/jquery-3.4.1/jquery-3.4.1.js"></script>
